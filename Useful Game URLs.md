@@ -3,7 +3,7 @@
 ## Main URLs
 
 > http://www.games.com/play/aol-inc/the-book-of-treasures
-> http://www.gamescanvas.com/canvas/43284?#accessToken=43284_cj5q2xgjpq6dx39s74sq-pcg1nd-G_krrl178yy0j0xwtnq8mcqx42kz
+>> http://www.gamescanvas.com/canvas/43284?#accessToken=43284_cj5q2xgjpq6dx39s74sq-pcg1nd-G_krrl178yy0j0xwtnq8mcqx42kz
 
 ## API URLs 
 
