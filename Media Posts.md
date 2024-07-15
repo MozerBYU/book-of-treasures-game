@@ -9,10 +9,14 @@ Note: Newest posts listed in ascending order (newest dates first)
 > https://reel-librarians.com/2016/01/
 >> Date: January 27th 2016
 
-### HuffingtonPost
-> https://www.huffpost.com/entry/book-of-treasures_n_892489
->> Date: July 18th 2011
-
 ### BlogSpot
 > https://playtothink.blogspot.com/2014/08/the-book-of-treasures-word-game-worth.html
 >> Date: August 8th 2014
+
+### Yahoo
+> https://ca.sports.yahoo.com/news/2014-05-12-game-of-the-day-the-book-of-treasures.html
+>> Date: May 12th 2014
+
+### HuffingtonPost
+> https://www.huffpost.com/entry/book-of-treasures_n_892489
+>> Date: July 18th 2011
